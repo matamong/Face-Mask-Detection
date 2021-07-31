@@ -1,3 +1,6 @@
+# dataset 무시 (사진 너무 많음)
+/dataset
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
